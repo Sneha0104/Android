@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Nhpc</string>
+    <!-- login page -->
+    <string name="login_page">LOGIN PAGE</string>
+    <string name="enter_username">enter username</string>
+    <string name="enter_password">enter password</string>
+    <string name="attempt">Attempt</string>
+    <string name="textview">TextView</string>
+    <string name="login">LOGIN</string>
+    <!-- user page-->
+    <string name="title_activity_userpage">userpage</string>
+    <string name="welcome_user">WELCOME USER</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <!-- employee page -->
+    <string name="employee_directory">EMPLOYEE DIRECTORY</string>
+    <string name="enter_your_first_name">enter your first name</string>
+    <string name="enter_your_city">enter your city</string>
+    <string name="enter_your_dept_id">enter your dept id</string>
+    <string name="enter_your_phone_no">enter your phone no</string>
+    <string name="enter_your_id">enter your id</string>
+    <string name="enter_your_title">enter your title</string>
+    <string name="enter_your_last_name">enter your last name</string>
+    <string name="enter_your_dob">enter your dob</string>
+    <string name="enter_your_date_of_joining">enter your date of joining</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="enter_your_department">enter your department</string>
+    <string name="employ_directory">EMPLOY DIRECTORY</string>
+
+</resources>
